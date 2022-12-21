@@ -1,22 +1,6 @@
 programa
 {
- 
-  funcao inicio(){
-    
-    inteiro notas[10] = {1,2,3,4,5,6,7,8,9,10}
-    inteiro l, c, mat[4][4] = {{10,9,8},{7,6,5},{4,3,2},{1,0},{}
-
-    para (l = 0; l < 4; l++){
-      para(c = 0; c < 4; c++){
-        escreva(mat[l][c], " ")
-      }
-      escreva("\n")
-    }
-  }
-}
-	
-	
-inclua biblioteca Util --> u 
+    inclua biblioteca Util --> u 
 	funcao inicio()
 	{
 		inteiro matriz [3][3],linha,coluna
@@ -51,7 +35,7 @@ inclua biblioteca Util --> u
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 375; 
+ * @POSICAO-CURSOR = 624; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
